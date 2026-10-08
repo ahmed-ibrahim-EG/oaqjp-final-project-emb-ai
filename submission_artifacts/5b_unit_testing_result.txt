@@ -1,0 +1,10 @@
+5b - Unit testing result
+========================
+
+This file is intentionally NOT filled with made-up output.
+
+Run this command:
+    python -m unittest test_emotion_detection.py -v
+
+Then replace the content of this file with the REAL output you got.
+Paste the real result. Note: these tests use mocks; if your grader expects tests against the live API, run them in the IBM lab.

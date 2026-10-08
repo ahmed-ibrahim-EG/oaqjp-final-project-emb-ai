@@ -1,0 +1,6 @@
+7c_error_handling_interface.png - take a REAL screenshot
+
+1. Run: python server.py
+2. Submit empty text (or spaces only) in the web interface.
+3. Screenshot the error message and save it as 7c_error_handling_interface.png in this folder.
+No placeholder image was generated on purpose.

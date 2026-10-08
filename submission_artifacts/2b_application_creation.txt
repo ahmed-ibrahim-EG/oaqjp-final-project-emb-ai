@@ -1,0 +1,10 @@
+2b - Application creation test
+==============================
+
+This file is intentionally NOT filled with made-up output.
+
+Run this command:
+    python  (then:  from emotion_detection import emotion_detector ; emotion_detector('I love this new technology'))
+
+Then replace the content of this file with the REAL output you got.
+Run it in the IBM lab terminal (Watson is only reachable there) and paste the real Python console output.

@@ -1,0 +1,6 @@
+6b_deployment_test.png - take a REAL screenshot
+
+1. Run: python server.py
+2. Open the app in the browser (inside the IBM lab) and analyse a sentence.
+3. Save the screenshot as 6b_deployment_test.png in this folder.
+No placeholder image was generated on purpose.
